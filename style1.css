@@ -29,7 +29,9 @@ body {
 }
 
 .content2 > img {
+  border: solid #854836;
   border-radius: 100%;
+  box-shadow: 5px 2px;
 }
 
 .button {
